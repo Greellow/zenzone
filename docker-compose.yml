@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  zenzone:
+    build: .
+    container_name: zenzone-app
+    ports:
+      - "80:80"
+    restart: always
