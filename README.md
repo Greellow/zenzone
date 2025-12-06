@@ -161,15 +161,6 @@ zenzone/
 - 微信内置浏览器
 - 其他现代移动端浏览器
 
-## 📦 音频资源
-
-项目使用的白噪音音频文件需要自行准备，推荐来源：
-- [Freesound](https://freesound.org/) - 免费音效库
-- [Zapsplat](https://www.zapsplat.com/) - 免费音效资源
-- [Mixkit](https://mixkit.co/free-sound-effects/) - 免费音效
-
-详见 `public/audio/README.md` 获取音频文件说明
-
 
 ## 📄 开源协议
 
